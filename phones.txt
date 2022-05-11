@@ -1,0 +1,18 @@
+1) iPhone 11
+2) iPhone 12
+3) Samsung s22
+
+^C
+[D[A[3~[3~[3~[B
+[A[A  [A[C[C[C[C[C[C[C[C[C[C[C[C[C
+^66^66d6dff:wq
+
+3) Xiaomi p20
+^c
+git commit -am "add xiaomi"
+
+
+
+^c
+c
+[3~[3~
